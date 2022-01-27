@@ -1,0 +1,12 @@
+{
+    "status":200,
+    "pricing_plans":[
+        {"id":1,"name":"Free","links":"500","user":"1","stats":"Basic Statistics","support":"Basic","custom_domain":"0","pixels":"0","workspace":"0","bio_link":"0","price":"0","category":"monthly","status":"0","created_at":"2022-01-21T07:30:00.000000Z","updated_at":"2022-01-21T07:30:00.000000Z"},
+        {"id":2,"name":"Startup","links":"20000","user":"5","stats":"Advanced Statistics","support":"Privileged Support","custom_domain":"5","pixels":"5","workspace":"5","bio_link":"5","price":"2.99","category":"monthly","status":"0","created_at":"2022-01-21T07:30:00.000000Z","updated_at":"2022-01-21T07:30:00.000000Z"},
+        {"id":3,"name":"Startup","links":"20000","user":"5","stats":"Advanced Statistics","support":"Privileged Support","custom_domain":"5","pixels":"5","workspace":"5","bio_link":"5","price":"29.9","category":"yearly","status":"0","created_at":"2022-01-21T07:30:00.000000Z","updated_at":"2022-01-21T07:30:00.000000Z"},
+        {"id":4,"name":"Professional","links":"100000","user":"20","stats":"Advanced Statistics","support":"Priority Support","custom_domain":"20","pixels":"20","workspace":"20","bio_link":"20","price":"9.99","category":"monthly","status":"0","created_at":"2022-01-21T07:30:00.000000Z","updated_at":"2022-01-21T07:30:00.000000Z"},
+        {"id":5,"name":"Professional","links":"100000","user":"20","stats":"Advanced Statistics","support":"Priority Support","custom_domain":"20","pixels":"20","workspace":"20","bio_link":"20","price":"99.9","category":"yearly","status":"0","created_at":"2022-01-21T07:30:00.000000Z","updated_at":"2022-01-21T07:30:00.000000Z"},
+        {"id":6,"name":"Enterprise","links":"INF","user":"INF","stats":"Advanced Statistics","support":"High Priority Support","custom_domain":"INF","pixels":"INF","workspace":"INF","bio_link":"INF","price":"99.99","category":"monthly","status":"0","created_at":"2022-01-21T07:30:00.000000Z","updated_at":"2022-01-21T07:30:00.000000Z"},
+        {"id":7,"name":"Enterprise","links":"INF","user":"INF","stats":"Advanced Statistics","support":"High Priority Support","custom_domain":"INF","pixels":"INF","workspace":"INF","bio_link":"INF","price":"999.99","category":"yearly","status":"0","created_at":"2022-01-21T07:30:00.000000Z","updated_at":"2022-01-21T07:30:00.000000Z"}
+    ]
+}
