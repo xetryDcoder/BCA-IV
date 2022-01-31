@@ -1,5 +1,7 @@
 const animals = ["ant", "bison", "camel", "duck", "elephant"];
 
+animals.slice(1)
+
 console.log(animals.slice(2));
 // expected output: Array ["camel", "duck", "elephant"]
 

@@ -7,3 +7,5 @@ console.log(months);
 months.splice(0, 2, "jan");
 // replaces 1 element at index 2 with jan
 console.log(months);
+
+
